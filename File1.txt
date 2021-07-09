@@ -6,16 +6,5 @@ xx
 s
 xx
 sss
-s
-s
-s
-s
-s
-s
-s
-s
-2
-3
-3
-1
+ss
 1
